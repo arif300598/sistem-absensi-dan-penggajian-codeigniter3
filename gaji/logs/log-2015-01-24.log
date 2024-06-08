@@ -1,0 +1,193 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-24 04:23:52 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 04:23:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 04:24:01 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 04:24:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 04:45:39 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 04:45:39 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 04:45:40 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 04:45:40 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:05:58 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:05:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:07:06 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:07:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:07:35 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:07:35 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:09:00 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:09:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:09:41 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:09:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:12:55 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:12:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:13:34 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:13:34 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:14:02 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:14:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:14:21 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:14:21 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:20:31 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:20:31 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:29:01 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:29:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:30:28 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:30:28 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:31:54 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:31:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:32:09 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:32:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:32:17 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:32:17 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:33:15 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:33:15 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:34:00 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:34:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:34:19 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:34:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:34:25 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:34:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:34:52 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:34:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:35:44 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:35:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:36:51 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:36:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:37:42 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:37:42 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:37:51 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:37:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:39:28 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:39:28 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:40:29 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:40:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:41:57 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:41:57 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:44:35 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 29 ]
+ERROR - 2015-01-24 16:44:35 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 29 ]
+ERROR - 2015-01-24 16:44:36 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:44:36 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:44:50 --> ErrorException [ 4096 ]: Object of class CI_DB_mysql_result could not be converted to string ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 5 ]
+ERROR - 2015-01-24 16:44:50 --> ErrorException [ 8 ]: Undefined property: CI_DB_mysql_result::$rata_rata ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 29 ]
+ERROR - 2015-01-24 16:44:50 --> ErrorException [ 4096 ]: Object of class CI_DB_mysql_result could not be converted to string ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 5 ]
+ERROR - 2015-01-24 16:44:50 --> ErrorException [ 8 ]: Undefined property: CI_DB_mysql_result::$rata_rata ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 29 ]
+ERROR - 2015-01-24 16:44:51 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:44:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:45:22 --> ErrorException [ 4096 ]: Object of class CI_DB_mysql_result could not be converted to string ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 5 ]
+ERROR - 2015-01-24 16:45:22 --> ErrorException [ 4096 ]: Object of class CI_DB_mysql_result could not be converted to string ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 5 ]
+ERROR - 2015-01-24 16:45:22 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:45:22 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:45:32 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:45:32 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:45:55 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:45:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:46:36 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 49 ]
+ERROR - 2015-01-24 16:46:36 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 69 ]
+ERROR - 2015-01-24 16:46:36 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 49 ]
+ERROR - 2015-01-24 16:46:36 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 69 ]
+ERROR - 2015-01-24 16:46:37 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:46:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:47:16 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 71 ]
+ERROR - 2015-01-24 16:47:16 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 71 ]
+ERROR - 2015-01-24 16:47:17 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:47:17 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:47:53 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:47:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:49:05 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:49:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:51:22 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:51:22 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:52:35 --> ErrorException [ 8 ]: Undefined variable: r ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 21 ]
+ERROR - 2015-01-24 16:52:35 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 21 ]
+ERROR - 2015-01-24 16:52:35 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/views/dashboard.php [ 21 ]
+ERROR - 2015-01-24 16:53:55 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:53:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 16:55:23 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 16:55:23 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:02:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:02:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:25 --> 404 Page Not Found --> uploded_filed
+ERROR - 2015-01-24 17:04:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:25 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:45 --> 404 Page Not Found --> uploded_filed
+ERROR - 2015-01-24 17:04:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:46 --> 404 Page Not Found --> uploded_filed
+ERROR - 2015-01-24 17:04:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:46 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:50 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:50 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:50 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:50 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:04:50 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:04:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:25 --> 404 Page Not Found --> uploaded_filed
+ERROR - 2015-01-24 17:05:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:27 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:05:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:05:47 --> 404 Page Not Found --> uploaded_filed
+ERROR - 2015-01-24 17:05:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:06 --> 404 Page Not Found --> uploaded_filed
+ERROR - 2015-01-24 17:06:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:21 --> 404 Page Not Found --> uploaded_filed
+ERROR - 2015-01-24 17:06:21 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:24 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:24 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:06:26 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:06:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:14:38 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:14:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:14:44 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:14:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:15:36 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:15:36 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:15:43 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:15:43 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:16:36 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:16:36 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:16:53 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:16:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:17:02 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:17:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:17:08 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:17:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:18:51 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:18:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:19:44 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:19:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:20:30 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:20:30 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:21:39 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:21:39 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2015-01-24 17:21:50 --> 404 Page Not Found --> assets
+ERROR - 2015-01-24 17:21:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]

@@ -1,0 +1,8 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-28 01:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-28 01:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-28 15:40:35 --> 404 Page Not Found --> assets
+ERROR - 2014-11-28 15:40:35 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-28 15:40:50 --> 404 Page Not Found --> assets
+ERROR - 2014-11-28 15:40:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]

@@ -1,0 +1,504 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-05 19:24:33 --> ErrorException [ 8 ]: Undefined property: Profile::$basecrud_m ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 25 ]
+ERROR - 2014-11-05 19:24:40 --> ErrorException [ 8 ]: Undefined property: Profile::$basecrud_m ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 25 ]
+ERROR - 2014-11-05 19:25:21 --> ErrorException [ 8 ]: Undefined variable: id ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 27 ]
+ERROR - 2014-11-05 19:25:21 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 28 ]
+ERROR - 2014-11-05 19:25:21 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 29 ]
+ERROR - 2014-11-05 19:25:21 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 30 ]
+ERROR - 2014-11-05 19:25:21 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 31 ]
+ERROR - 2014-11-05 19:25:21 --> ErrorException [ 8 ]: Trying to get property of non-object ~ /home/trias/htdocs/sawerigading/gaji/controllers/profile.php [ 32 ]
+ERROR - 2014-11-05 19:55:17 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 19:55:17 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 19:55:40 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 19:55:40 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:04:06 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:04:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:04:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:04:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:06:07 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:06:07 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:06:15 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:06:15 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:07:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:07:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:07:30 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:07:30 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:08:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:08:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:08:01 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:08:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:08:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:08:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:08:30 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:08:30 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:09:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:09:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:09:01 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:09:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:10:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:10:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:10:17 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:10:17 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:10:57 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:10:57 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:11:01 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:11:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:11:37 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:11:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:11:53 --> 404 Page Not Found --> data/absensi
+ERROR - 2014-11-05 20:11:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:14:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:14:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:14:27 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:14:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:20:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:20:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:21:27 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:21:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:21:55 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:21:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:21:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:21:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:23:22 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:23:22 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:24:04 --> 404 Page Not Found --> hutang
+ERROR - 2014-11-05 20:24:04 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:24:27 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:24:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:24:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:24:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:30:26 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:30:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:30:37 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:30:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:30:49 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:30:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:30:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:30:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:31:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:31:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:31:15 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:31:15 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:31:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:31:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:32:56 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:32:56 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:33:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:33:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:34:32 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:34:32 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:34:43 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:34:43 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:34:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:34:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:35:12 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:35:12 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:36:39 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:36:39 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:36:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:36:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:37:55 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:37:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:39:22 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:39:22 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:39:28 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:39:28 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:39:43 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:39:43 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:39:44 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:39:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:39:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:39:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:40:43 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:40:43 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:40:44 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:40:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:40:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:40:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:41:01 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:41:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:41:20 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:41:20 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 20:41:21 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 20:41:21 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:18 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:18 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:44 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:51:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:51:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:52:43 --> 404 Page Not Found --> absensi
+ERROR - 2014-11-05 22:52:43 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:52:46 --> 404 Page Not Found --> absensi
+ERROR - 2014-11-05 22:52:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:52:51 --> 404 Page Not Found --> absensi
+ERROR - 2014-11-05 22:52:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:53:34 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-05 22:53:34 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:53:35 --> 404 Page Not Found --> laporan/gaji
+ERROR - 2014-11-05 22:53:35 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:53:36 --> 404 Page Not Found --> laporan/denda
+ERROR - 2014-11-05 22:53:36 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:53:36 --> 404 Page Not Found --> laporan/kpi
+ERROR - 2014-11-05 22:53:36 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:54:58 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-05 22:54:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:55:00 --> 404 Page Not Found --> laporan/gaji
+ERROR - 2014-11-05 22:55:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:55:01 --> 404 Page Not Found --> laporan/denda
+ERROR - 2014-11-05 22:55:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:55:01 --> 404 Page Not Found --> laporan/kpi
+ERROR - 2014-11-05 22:55:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:57:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:57:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:57:54 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 22:57:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 22:58:21 --> ErrorException [ 1 ]: The URI you submitted has disallowed characters. ~  [ 0 ]
+ERROR - 2014-11-05 22:58:32 --> ErrorException [ 1 ]: The URI you submitted has disallowed characters. ~  [ 0 ]
+ERROR - 2014-11-05 22:58:32 --> ErrorException [ 2 ]: Missing argument 2 for Settings::change() ~ /home/trias/htdocs/sawerigading/gaji/controllers/settings.php [ 23 ]
+ERROR - 2014-11-05 22:58:32 --> ErrorException [ 8 ]: Undefined variable: value ~ /home/trias/htdocs/sawerigading/gaji/controllers/settings.php [ 27 ]
+ERROR - 2014-11-05 22:58:39 --> ErrorException [ 1 ]: The URI you submitted has disallowed characters. ~  [ 0 ]
+ERROR - 2014-11-05 22:59:47 --> ErrorException [ 1 ]: The URI you submitted has disallowed characters. ~  [ 0 ]
+ERROR - 2014-11-05 23:00:05 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-05 23:00:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:03:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:03:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:07:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:07:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:07:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:07:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:07:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:07:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:07:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:07:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:07:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:07:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:07:52 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:07:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:09:59 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:09:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:10:09 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:10:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:10:11 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:10:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:11:02 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:11:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:54 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:13:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:13:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:58 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:14:59 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:14:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:03 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:15:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:11 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:15:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:13 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:13 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:14 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:14 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:19 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:19 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:20 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:20 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:20 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:20 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:20 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:20 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:20 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:15:20 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:48 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:49 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:15:53 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:15:53 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:25 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:16:25 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:29 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:33 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:16:33 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:16:35 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:16:35 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:10 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:10 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:17:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:17:12 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:17:12 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:18:27 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:18:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:18:46 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:18:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:19:05 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:19:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:19:06 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:19:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:19:16 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:19:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:19:18 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:19:18 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:19:52 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:19:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:35 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:20:35 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:20:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:20:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:48 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:20:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:20:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:20:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:20:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:20:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:20:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:02 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:02 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:02 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:49 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:49 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:49 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:49 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:49 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:51 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:21:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:51 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:51 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:55 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:56 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:56 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:57 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:57 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:58 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:21:59 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:21:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:00 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:22:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-05 23:22:45 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-05 23:22:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]

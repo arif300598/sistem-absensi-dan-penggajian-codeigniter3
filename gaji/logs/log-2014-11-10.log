@@ -1,0 +1,510 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-10 05:06:40 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 05:06:40 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 05:08:00 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 05:08:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 05:09:46 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 05:09:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 05:11:20 --> 404 Page Not Found --> absensi/days_exception
+ERROR - 2014-11-10 05:11:20 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 08:52:05 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 08:52:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 10:29:02 --> 404 Page Not Found --> absensi/insert
+ERROR - 2014-11-10 10:29:02 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 10:29:11 --> 404 Page Not Found --> absensi/insert
+ERROR - 2014-11-10 10:29:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 10:29:59 --> 404 Page Not Found --> absensi/insert
+ERROR - 2014-11-10 10:29:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 10:30:52 --> ErrorException [ 8 ]: Undefined property: Absensi::$basecrud_m ~ /home/trias/htdocs/sawerigading/gaji/controllers/absensi.php [ 159 ]
+ERROR - 2014-11-10 10:32:10 --> Query error: Duplicate entry '2014-11-10-1' for key 'tanggal_id_karyawan'
+ERROR - 2014-11-10 10:32:10 --> ErrorException [ 1 ]: Error Number: 1062 / Duplicate entry '2014-11-10-1' for key 'tanggal_id_karyawan' / INSERT INTO `absensi_ijin` (`tanggal`, `id_karyawan`, `status`, `keterangan`) VALUES ('2014-11-10', '1', 'aktif', '---') / Filename: /home/trias/htdocs/sawerigading/models/basecrud_m.php / Line Number: 53 ~  [ 0 ]
+ERROR - 2014-11-10 10:34:37 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 10:34:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 10:34:40 --> ErrorException [ 8 ]: Undefined property: stdClass::$id ~ /home/trias/htdocs/sawerigading/gaji/views/absensi/ijin_karyawan.php [ 116 ]
+ERROR - 2014-11-10 10:34:40 --> ErrorException [ 8 ]: Undefined property: stdClass::$jenis_ijin ~ /home/trias/htdocs/sawerigading/gaji/views/absensi/ijin_karyawan.php [ 120 ]
+ERROR - 2014-11-10 10:34:40 --> ErrorException [ 8 ]: Undefined property: stdClass::$id ~ /home/trias/htdocs/sawerigading/gaji/views/absensi/ijin_karyawan.php [ 123 ]
+ERROR - 2014-11-10 10:38:21 --> ErrorException [ 8 ]: Undefined property: stdClass::$jenis_ijin ~ /home/trias/htdocs/sawerigading/gaji/views/absensi/ijin_karyawan.php [ 121 ]
+ERROR - 2014-11-10 10:40:30 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 10:40:30 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 10:45:22 --> Query error: Duplicate entry '2014-11-10-1' for key 'tanggal_id_karyawan'
+ERROR - 2014-11-10 10:45:22 --> ErrorException [ 1 ]: Error Number: 1062 / Duplicate entry '2014-11-10-1' for key 'tanggal_id_karyawan' / INSERT INTO `absensi_ijin` (`tanggal`, `id_karyawan`, `status`, `keterangan`) VALUES ('2014-11-10', '1', 'aktif', '----') / Filename: /home/trias/htdocs/sawerigading/models/basecrud_m.php / Line Number: 53 ~  [ 0 ]
+ERROR - 2014-11-10 10:50:01 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 10:50:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 11:10:58 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 11:10:58 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 11:17:07 --> ErrorException [ 2 ]: strtotime() expects parameter 1 to be string, object given ~ /home/trias/htdocs/sawerigading/gaji/controllers/absensi.php [ 164 ]
+ERROR - 2014-11-10 11:17:07 --> ErrorException [ 2 ]: Cannot modify header information - headers already sent by (output started at /home/trias/htdocs/sawerigading/gaji/core/MY_Exceptions.php:198) ~ /home/trias/htdocs/sawerigading/system/libraries/Session.php [ 675 ]
+ERROR - 2014-11-10 11:17:07 --> ErrorException [ 2 ]: Cannot modify header information - headers already sent by (output started at /home/trias/htdocs/sawerigading/gaji/core/MY_Exceptions.php:198) ~ /home/trias/htdocs/sawerigading/system/libraries/Session.php [ 675 ]
+ERROR - 2014-11-10 11:25:52 --> ErrorException [ 8 ]: Undefined variable: use_ajax ~ /home/trias/htdocs/sawerigading/gaji/controllers/absensi.php [ 214 ]
+ERROR - 2014-11-10 11:26:57 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 11:26:57 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 11:51:51 --> Query error: Unknown column '-b.nama_lengkap' in 'where clause'
+ERROR - 2014-11-10 11:51:51 --> ErrorException [ 1 ]: Error Number: 1054 / Unknown column '-b.nama_lengkap' in 'where clause' / SELECT a.id, a.tanggal, a.status, a.keterangan, b.nama_lengkap, c.nama as jabatan, d.nama as divisi
+FROM (`absensi_ijin` a)
+LEFT JOIN `karyawan` b ON `a`.`id_karyawan` = `b`.`id`
+LEFT JOIN `jabatan` c ON `b`.`id_jabatan` = `c`.`id`
+LEFT JOIN `divisi` d ON `c`.`id_divisi` = `d`.`id`
+WHERE YEAR(a.tanggal) =  '2014'
+AND MONTH(a.tanggal) =  '11'
+AND  `-b`.`nama_lengkap`  LIKE '%xxx%'
+OR  `a`.`status`  LIKE '%xxx%'
+OR  `c`.`nama`  LIKE '%xxx%'
+OR  `d`.`nama`  LIKE '%xxx%'
+ORDER BY `a`.`tanggal` DESC / Filename: /home/trias/htdocs/sawerigading/models/absensi_m.php / Line Number: 65 ~  [ 0 ]
+ERROR - 2014-11-10 11:51:57 --> Query error: Unknown column '-b.nama_lengkap' in 'where clause'
+ERROR - 2014-11-10 11:51:57 --> ErrorException [ 1 ]: Error Number: 1054 / Unknown column '-b.nama_lengkap' in 'where clause' / SELECT a.id, a.tanggal, a.status, a.keterangan, b.nama_lengkap, c.nama as jabatan, d.nama as divisi
+FROM (`absensi_ijin` a)
+LEFT JOIN `karyawan` b ON `a`.`id_karyawan` = `b`.`id`
+LEFT JOIN `jabatan` c ON `b`.`id_jabatan` = `c`.`id`
+LEFT JOIN `divisi` d ON `c`.`id_divisi` = `d`.`id`
+WHERE YEAR(a.tanggal) =  '2014'
+AND MONTH(a.tanggal) =  '11'
+AND  `-b`.`nama_lengkap`  LIKE '%xxx%'
+OR  `a`.`status`  LIKE '%xxx%'
+OR  `c`.`nama`  LIKE '%xxx%'
+OR  `d`.`nama`  LIKE '%xxx%'
+ORDER BY `a`.`tanggal` DESC / Filename: /home/trias/htdocs/sawerigading/models/absensi_m.php / Line Number: 65 ~  [ 0 ]
+ERROR - 2014-11-10 14:16:15 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:16:15 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:22:54 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:22:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:22:54 --> 404 Page Not Found --> laporan/gaji
+ERROR - 2014-11-10 14:22:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:24:01 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:24:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:27:50 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:27:50 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:27:52 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:27:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:27:56 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:27:56 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:27:59 --> 404 Page Not Found --> laporan/denda
+ERROR - 2014-11-10 14:27:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:28:06 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:28:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:28:08 --> 404 Page Not Found --> laporan/gaji
+ERROR - 2014-11-10 14:28:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:28:45 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:28:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:28:48 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:28:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:28:48 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:28:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:29:18 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:29:18 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:29:21 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:29:21 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:30:27 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:30:27 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:30:30 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:30:30 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:30:31 --> 404 Page Not Found --> laporan/gaji
+ERROR - 2014-11-10 14:30:31 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:30:33 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:30:33 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:30:49 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 14:30:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 14:30:52 --> 404 Page Not Found --> laporan/karyawan
+ERROR - 2014-11-10 14:30:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 16:59:38 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 16:59:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 17:24:05 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 17:24:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 17:26:15 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 17:26:15 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 17:26:33 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 17:26:33 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 17:32:15 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 17:32:15 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 17:32:46 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 17:32:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 19:54:52 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 19:54:52 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:47 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:47 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:48 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 20:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:48 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:48 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:15:56 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:15:56 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:16:29 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 20:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:16:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:16:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:22:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:22:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:22:03 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:22:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:22:03 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 20:22:03 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:32:34 --> You did not select a file to upload.
+ERROR - 2014-11-10 20:34:51 --> Anda belum memilih file untuk diupload.
+ERROR - 2014-11-10 20:35:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:35:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:35:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:35:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:35:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:35:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:35:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:35:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:35:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:35:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:40:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:40:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:41:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:41:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:04 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:04 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:04 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:04 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:05 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:05 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:05 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:05 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 20:48:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:05 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:48:08 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:48:08 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:49:21 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 20:49:21 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:56:29 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 20:56:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:56:46 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 20:56:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:56:59 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 20:56:59 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:57:01 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 20:57:01 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 20:57:09 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 20:57:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:00 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:02:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:00 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:02:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:00 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:00 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:06 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:02:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:41 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:02:41 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:54 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:54 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:54 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:54 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:55 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:02:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:02:55 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:02:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:04 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:04 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:04 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:04 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:05 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:05 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:05 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:03:05 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:10 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:10 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:10 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:10 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:11 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:03:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:29 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:03:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:29 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:29 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:42 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:42 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:42 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:42 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:42 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:42 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:42 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:03:42 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:03:42 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:03:42 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:13:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:13:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:13:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:13:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:13:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:13:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:13:46 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:13:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:13:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:13:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:14:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:14:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:14:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:14:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:14:12 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:14:12 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:14:12 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:14:12 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:14:12 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:37 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:15:37 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:15:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:37 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:15:37 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:38 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:15:38 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:15:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:38 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:15:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:38 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:15:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:38 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:15:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:38 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:15:38 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:40 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:15:40 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:15:49 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:15:49 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:16:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:16:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:16:09 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:16:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:16:09 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:16:09 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:16:10 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:16:10 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:16:10 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:16:10 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:16:10 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:16:10 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:19:08 --> The image you are attempting to upload exceedes the maximum height or width.
+ERROR - 2014-11-10 21:21:07 --> The image you are attempting to upload exceedes the maximum height or width.
+ERROR - 2014-11-10 21:22:53 --> Gambar yang anda pilih untuk diupload memiliki dimensi yang melebihi batas maksimal yang diperbolehkan.
+ERROR - 2014-11-10 21:23:41 --> Dimensi gambar terlalu besar, pilih gambar yang lain
+ERROR - 2014-11-10 21:23:52 --> Dimensi gambar terlalu besar,silahkan pilih gambar yang lain
+ERROR - 2014-11-10 21:24:18 --> Dimensi gambar melebihi batas maksimal dimensi
+ERROR - 2014-11-10 21:24:26 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:24:26 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:44 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:26:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:44 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:26:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:44 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:26:44 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:45 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:26:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:26:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:26:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:26:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:45 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:26:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:26:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:26:56 --> 404 Page Not Found --> uploaded_files
+ERROR - 2014-11-10 21:26:56 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:28:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:45 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:28:45 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:28:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:28:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:28:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:46 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:28:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:28:46 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:28:46 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:34:55 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:34:55 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:06 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:38:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:06 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:38:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:06 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:38:06 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:38:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:11 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:38:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:11 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:38:11 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:31 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:38:31 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:31 --> 404 Page Not Found --> show_data.php
+ERROR - 2014-11-10 21:38:31 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:38:31 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:38:31 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:16 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:16 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:17 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:17 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 21:45:22 --> 404 Page Not Found --> assets
+ERROR - 2014-11-10 21:45:22 --> ErrorException [ 1 ]: The page you requested was not found. ~  [ 0 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:29 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 8 ]: Object of class DateInterval could not be converted to int ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:28:30 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, integer given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:51 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_diff() expects parameter 2 to be DateTimeInterface, string given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 203 ]
+ERROR - 2014-11-10 22:29:52 --> ErrorException [ 2 ]: date_interval_format() expects parameter 1 to be DateInterval, boolean given ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 204 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:31:05 --> ErrorException [ 8 ]: A non well formed numeric value encountered ~ /home/trias/htdocs/sawerigading/gaji/views/data/karyawan.php [ 202 ]
+ERROR - 2014-11-10 22:40:55 --> Anda belum memilih file untuk diupload.
